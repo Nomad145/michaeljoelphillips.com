@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Michael Phillips]]></title>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2018-04-30T03:50:41+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Hello World]]></title>
+            <link href="/blog/2018/04/29/hello-world"/>
+            <updated>2018-04-29T00:00:00+00:00</updated>
+            <id>/blog/2018/04/29/hello-world</id>
+            <content type="html"><![CDATA[<p>I bought this domain a few years ago thinking that I might put it to good use
+as a blog someday.  After several failed ideas on how to get started, and
+accidentally letting this domain expire once, I'm finally writing my first blog
+post.</p>
+
+<p>I'm a Software Developer inspired by the likes of
+<a href="https://ocramius.github.io/">Ocramius</a>, <a href="https://blog.ircmaxell.com/">Anthony
+Ferrara</a>, <a href="https://m.signalvnoise.com/@dhh">DHH</a>,
+and countless others in the Open Source community to blog about some of the
+things I'm most passionate about.  I plan to use this space to write on
+Programming, Vim, and Programming related things; especially related to PHP and
+Object Oriented Programming and Design.</p>
+]]></content>
+        </entry>
+    </feed>
